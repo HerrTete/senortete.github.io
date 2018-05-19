@@ -2,4 +2,5 @@ logo: /assets/img/Rico_Avatar.jpg
 title:  Rico Tetmeyer
 description:  "persönliche Webpräsenz"
 show_downloads: false
+site.github.is_user_page: false
 theme:  jekyll-theme-minimal
