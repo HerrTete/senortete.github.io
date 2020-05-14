@@ -18,5 +18,7 @@
   
 #### seit 03/2018 Abteilungsleitung Entwicklung & Qualitätssicherung Bamberg
   - Moderation Entwicklungsprozess
+    - Vorgabe technischer Rahmenbedieungen
   - ISTQB certified Testmanager
+    - 
   - Schnittstelle zu Support + Technik 
