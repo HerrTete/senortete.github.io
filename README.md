@@ -1,10 +1,11 @@
-#Lebenslauf
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/SenorTete/SenorTete/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Ausbildung
+- 2004 Fachabitur [e.o.Plauen](http://www.bsz-eoplauen.de/)
+- 2009 Diplom Informatik [WHZ](https://www.fh-zwickau.de/)
+# Beruflicher Werdegang
+## seit 07/2009 [medatixx](https://www.medatixx.de/)
+### 07/2009 - 10/2016 Softwareentwickler
+### 10/2016 - 03/2018 Abteilungsleitung Standards & Schnittstellen
+### seit 03/2018 Abteilungsleitung Entwicklung & Qualitätssicherung Bamberg
 
 ### Markdown
 
