@@ -4,15 +4,19 @@
 
 # Beruflicher Werdegang
 ## seit 07/2009 [medatixx](https://www.medatixx.de/)
-###   07/2009 - 10/2016 Softwareentwickler
+#### 07/2009 - 10/2016 Softwareentwickler
   - C#
     - WPF
     - Windows.Forms
     - Services
   - Architektur
   - Softwareengineering
-###   10/2016 - 03/2018 Abteilungsleitung Standards & Schnittstellen
+  
+#### 10/2016 - 03/2018 Abteilungsleitung Standards & Schnittstellen
   - Business development
   - Prototyping 
-###   seit 03/2018 Abteilungsleitung Entwicklung & Qualitätssicherung Bamberg
-- 
+  
+#### seit 03/2018 Abteilungsleitung Entwicklung & Qualitätssicherung Bamberg
+  - Moderation Entwicklungsprozess
+  - ISTQB certified Testmanager
+  - Schnittstelle zu Support + Technik 
