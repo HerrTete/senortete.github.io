@@ -20,5 +20,5 @@
   - Moderation Entwicklungsprozess
     - Vorgabe technischer Rahmenbedieungen
   - ISTQB certified Testmanager
-    - 
+    - gestaltung Testprozess
   - Schnittstelle zu Support + Technik 
