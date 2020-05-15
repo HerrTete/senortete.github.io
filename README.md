@@ -14,7 +14,9 @@
   
 #### 10/2016 - 03/2018 Abteilungsleitung Standards & Schnittstellen
   - Business development
-  - Prototyping 
+  - Prototyping
+  - Verbandsarbeit (AG Interoperabilität des bvitg)
+  - Spezifikationsarbeiten
   
 #### seit 03/2018 Abteilungsleitung Entwicklung & Qualitätssicherung Bamberg
   - Moderation Entwicklungsprozess
