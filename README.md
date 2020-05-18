@@ -3,7 +3,7 @@
 - 2009 Diplom Informatik [WHZ](https://www.fh-zwickau.de/)
 
 # Beruflicher Werdegang
-## seit 07/2009 [medatixx](https://www.medatixx.de/)
+## seit 07/2009 [medatixx](https://www.medatixx.de/) als ...
 #### 07/2009 - 10/2016 Softwareentwickler
   - C#
     - WPF
